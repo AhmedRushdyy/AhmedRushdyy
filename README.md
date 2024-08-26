@@ -32,7 +32,7 @@
 
 Here are a few projects I've worked on:
 
-### [Project 1: Responsive E-Commerce Website][(https://github.com/your-username/project-1)](https://github.com/AhmedRushdyy/InfiniteElegance)
+### [Project 1: Responsive E-Commerce Website](https://github.com/AhmedRushdyy/InfiniteElegance)
 A simple, responsive E-Commerce Website built with HTML5, CSS3, and Bootstrap.
 
 ### [Project 2: Islamic Prayer Times App](https://github.com/AhmedRushdyy/Prayer_Times)
