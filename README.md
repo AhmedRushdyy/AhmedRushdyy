@@ -8,7 +8,7 @@
 
 <!-- Add a banner or a relevant image -->
 <p align="center">
-  <img src="https://github.com/[your-username]/[your-repo]/blob/main/banner.png" alt="Banner Image">
+  <img src="[https://github.com/[your-username]/[your-repo]/blob/main/banner.png](https://cdn-icons-png.flaticon.com/512/5024/5024509.png)" alt="Banner Image">
 </p>
 
 <!-- Badges and statistics -->
