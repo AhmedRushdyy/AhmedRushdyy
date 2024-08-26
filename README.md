@@ -32,11 +32,11 @@
 
 Here are a few projects I've worked on:
 
-### [Project 1: Responsive Portfolio](https://github.com/your-username/project-1)
-A simple, responsive portfolio template built with HTML5, CSS3, and Bootstrap.
+### [Project 1: Responsive E-Commerce Website][(https://github.com/your-username/project-1)](https://github.com/AhmedRushdyy/InfiniteElegance)
+A simple, responsive E-Commerce Website built with HTML5, CSS3, and Bootstrap.
 
-### [Project 2: JavaScript Quiz App](https://github.com/your-username/project-2)
-An interactive quiz app created using JavaScript, showcasing my ability to build dynamic web applications.
+### [Project 2: Islamic Prayer Times App](https://github.com/AhmedRushdyy/Prayer_Times)
+An interactive app created using JavaScript and api calls, showcasing my ability to build dynamic web applications.
 
 ### [Project 3: Bootstrap Landing Page](https://github.com/your-username/project-3)
 A clean and modern landing page template built with Bootstrap and custom CSS.
