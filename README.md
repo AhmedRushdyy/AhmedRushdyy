@@ -8,7 +8,7 @@
 
 <!-- Add a banner or a relevant image -->
 <p align="center">
-  <img src="https://img.freepik.com/premium-vector/programming-coding-icon-set-software-development-icon-collection-programmer-developer-symbol_745851-79.jpg" alt="Banner Image">
+  <img src="https://github.com/[your-username]/[your-repo]/blob/main/banner.png" alt="Banner Image" width="100px">
 </p>
 
 <!-- Badges and statistics -->
