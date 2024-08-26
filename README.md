@@ -55,5 +55,5 @@ A clean and modern landing page template built with Bootstrap and custom CSS.
 
 <!-- Footer with GitHub Activity -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=your-username&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" />
 </p>
