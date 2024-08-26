@@ -38,7 +38,7 @@ A simple, responsive E-Commerce Website built with HTML5, CSS3, and Bootstrap.
 ### [Project 2: Islamic Prayer Times App](https://github.com/AhmedRushdyy/Prayer_Times)
 An interactive app created using JavaScript and api calls, showcasing my ability to build dynamic web applications.
 
-### [Project 3: Bootstrap Landing Page](https://github.com/your-username/project-3)
+### [Project 3: API Calling for Posts](https://github.com/AhmedRushdyy/postsApiCall)
 A clean and modern landing page template built with Bootstrap and custom CSS.
 
 <!-- GitHub Stats Section -->
