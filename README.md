@@ -15,7 +15,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Badge"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
@@ -27,7 +26,7 @@
 ## About Me
 
 - 👨‍💻 I’m a junior **MERN stack developer** with hands-on experience in both frontend and backend development.
-- 🌱 Currently, I'm enhancing my skills in **React** and **Node.js** to build more dynamic and interactive applications.
+- 🌱 Currently, I'm enhancing my skills to build more dynamic and interactive applications.
 - 💼 Looking for internship opportunities or junior developer roles to grow my experience and contribute to real-world projects.
 - 💬 Ask me about **HTML5, CSS3, JavaScript, React, Node.js, Express, and MongoDB**.
 - 🎨 In my spare time, I enjoy exploring UI/UX trends and building creative side projects.
@@ -38,7 +37,7 @@
 Here are a few projects that showcase my skills:
 
 ### [Project 1: Responsive E-Commerce Website](https://github.com/AhmedRushdyy/InfiniteElegance)
-A modern, responsive e-commerce site built with HTML5, CSS3, and Bootstrap.
+AA Modern Next.js Portfolio.
 
 ### [Project 2: Islamic Prayer Times App](https://github.com/AhmedRushdyy/Prayer_Times)
 An interactive app created with JavaScript and API calls, demonstrating my capability to work with dynamic content.
