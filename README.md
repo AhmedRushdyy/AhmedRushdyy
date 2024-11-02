@@ -36,14 +36,14 @@
 
 Here are a few projects that showcase my skills:
 
-### [Project 1: Responsive E-Commerce Website](https://github.com/AhmedRushdyy/InfiniteElegance)
-AA Modern Next.js Portfolio.
+### [Project 1: My Portfolio](https://github.com/AhmedRushdyy/Rushdy-Portfolio)
+A Modern Next.js Portfolio.
 
-### [Project 2: Islamic Prayer Times App](https://github.com/AhmedRushdyy/Prayer_Times)
-An interactive app created with JavaScript and API calls, demonstrating my capability to work with dynamic content.
-
-### [Project 3: API Calling for Posts](https://github.com/AhmedRushdyy/postsApiCall)
-A clean and modern landing page template that utilizes Bootstrap and custom CSS.
+### [Project 2: Traveling App](https://github.com/AhmedRushdyy/WorldWise)
+ React application that allows users to explore cities from around the world
+ 
+### [Project 3: Responsive E-Commerce Website](https://github.com/AhmedRushdyy/InfiniteElegance)
+A clean and modern Responsive E-Commerce Website that utilizes Bootstrap and custom CSS.
 
 <!-- Skills Section -->
 ## Skills
